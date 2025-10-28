@@ -1,0 +1,944 @@
+{
+  "file_id": "conv_002",
+  "duration": 293.45,
+  "segments": [
+    {
+      "start": 1.14,
+      "end": 1.62,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 2.51,
+      "end": 2.88,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 3.57,
+      "end": 6.11,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 7.08,
+      "end": 7.93,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 8.33,
+      "end": 9.06,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 9.87,
+      "end": 10.76,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 11.13,
+      "end": 17.34,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": "हेलो हेलो मैडम पार्सल था आपका फोर नाइन नाइन का। अः कहाँ से? डिलीप कार्ड से। आ गया है पार्सल? हाँ, ये हब में आपका पार्सल आया हुआ है। जींस आपने तीस नंबर का आपने मंगवाया था। हम्म हम्म अः ये आपका फल अः फ्लैट नंबर सिक्स ह"
+    },
+    {
+      "start": 14.81,
+      "end": 15.44,
+      "speaker": "SPEAKER_02",
+      "role": "wife",
+      "text": ""
+    },
+    {
+      "start": 17.34,
+      "end": 17.83,
+      "speaker": "SPEAKER_02",
+      "role": "wife",
+      "text": ""
+    },
+    {
+      "start": 18.15,
+      "end": 21.45,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 21.75,
+      "end": 22.69,
+      "speaker": "SPEAKER_02",
+      "role": "wife",
+      "text": ""
+    },
+    {
+      "start": 21.78,
+      "end": 22.36,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 23.23,
+      "end": 27.32,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 27.49,
+      "end": 27.87,
+      "speaker": "SPEAKER_02",
+      "role": "wife",
+      "text": ""
+    },
+    {
+      "start": 28.53,
+      "end": 32.99,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 32.99,
+      "end": 33.0,
+      "speaker": "SPEAKER_02",
+      "role": "wife",
+      "text": ""
+    },
+    {
+      "start": 33.0,
+      "end": 33.29,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 33.29,
+      "end": 33.46,
+      "speaker": "SPEAKER_02",
+      "role": "wife",
+      "text": ""
+    },
+    {
+      "start": 33.46,
+      "end": 34.68,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 34.86,
+      "end": 35.27,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 34.88,
+      "end": 35.23,
+      "speaker": "SPEAKER_03",
+      "role": "husband",
+      "text": ""
+    },
+    {
+      "start": 35.45,
+      "end": 35.47,
+      "speaker": "SPEAKER_03",
+      "role": "husband",
+      "text": ""
+    },
+    {
+      "start": 35.47,
+      "end": 35.82,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 35.97,
+      "end": 37.12,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 37.39,
+      "end": 47.42,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": "अः ये area manager जो है ये नासिक का जो ये ये card का hub है ना? हम्म हम्म उनके बगल में है ना? हम्म वहाँ से बात कर रहा हूँ। हाँ। ये आपका parcel का bill generate कर रहा था bill generate नहीं हो रहा है, billing department से बात कर रहा हूँ मैं। है ना? अभी technical issue है थोड़ा new years आने वाला है ना। हम्म उसके कारण"
+    },
+    {
+      "start": 44.21,
+      "end": 44.72,
+      "speaker": "SPEAKER_03",
+      "role": "husband",
+      "text": ""
+    },
+    {
+      "start": 47.42,
+      "end": 47.62,
+      "speaker": "SPEAKER_03",
+      "role": "husband",
+      "text": ""
+    },
+    {
+      "start": 47.62,
+      "end": 50.0,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 50.0,
+      "end": 50.4,
+      "speaker": "SPEAKER_03",
+      "role": "husband",
+      "text": ""
+    },
+    {
+      "start": 50.3,
+      "end": 55.63,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 56.88,
+      "end": 58.32,
+      "speaker": "SPEAKER_02",
+      "role": "wife",
+      "text": ""
+    },
+    {
+      "start": 58.81,
+      "end": 60.0,
+      "speaker": "SPEAKER_02",
+      "role": "wife",
+      "text": ""
+    },
+    {
+      "start": 60.26,
+      "end": 66.7,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": "हाँ COD किया था COD है COD का parcel जो है अभी system upgrading के होने के कारण COD parcel नहीं भेज रहा हूँ madam है ना क्यूंकि COD का technical issue है। है ना COD का क्यों issue हो गया लेकिन आपने पहले तो वहाँ पे डाला नहीं था ना?"
+    },
+    {
+      "start": 61.07,
+      "end": 61.51,
+      "speaker": "SPEAKER_02",
+      "role": "wife",
+      "text": ""
+    },
+    {
+      "start": 67.38,
+      "end": 70.15,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 70.15,
+      "end": 73.83,
+      "speaker": "SPEAKER_02",
+      "role": "wife",
+      "text": ""
+    },
+    {
+      "start": 74.26,
+      "end": 76.39,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 76.59,
+      "end": 78.62,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 78.9,
+      "end": 83.87,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 84.25,
+      "end": 89.79,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": "पहले आपका कल से हुआ है मैडम कल से हुआ है स्टार्टिंग है ना क्योंकि न्यू इयर्स आने वाला है तो सिस्टम अपडेट करना पड़ता है क्योंकि न्यू इयर्स में ऑफर आता है है ना इसके कारण थोड़ा दिक्कत हो रही है कस्टमर को इसे प्रीपेड कर लीजिए �"
+    },
+    {
+      "start": 90.23,
+      "end": 93.72,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 93.62,
+      "end": 96.13,
+      "speaker": "SPEAKER_02",
+      "role": "wife",
+      "text": ""
+    },
+    {
+      "start": 93.86,
+      "end": 94.48,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 96.59,
+      "end": 97.4,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 97.67,
+      "end": 99.36,
+      "speaker": "SPEAKER_02",
+      "role": "wife",
+      "text": ""
+    },
+    {
+      "start": 99.58,
+      "end": 103.31,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 103.83,
+      "end": 107.05,
+      "speaker": "SPEAKER_02",
+      "role": "wife",
+      "text": ""
+    },
+    {
+      "start": 107.52,
+      "end": 110.8,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 111.52,
+      "end": 113.36,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 113.94,
+      "end": 114.27,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 114.43,
+      "end": 114.44,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 114.44,
+      "end": 116.2,
+      "speaker": "SPEAKER_02",
+      "role": "wife",
+      "text": ""
+    },
+    {
+      "start": 116.2,
+      "end": 117.06,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 118.95,
+      "end": 119.2,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 119.86,
+      "end": 120.96,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 121.5,
+      "end": 125.01,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 121.78,
+      "end": 122.19,
+      "speaker": "SPEAKER_02",
+      "role": "wife",
+      "text": ""
+    },
+    {
+      "start": 125.33,
+      "end": 125.94,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 126.59,
+      "end": 131.15,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": "नहीं मैं flipkart से बात अः बात कर रही ना आप। flipkart का area manager नितिन कुमार सिंह बात कर रहा हूँ madam आप अपना order ID मिला लीजिये। है ना। आप मेरे husband से बात कीजिये दो minute बात करवा दीजिये। hello हाँ जी हाँ बोलिये वो parcel का bill generate कर रहा था bill generate नहीं हो रहा है अभी यहाँ। क्य"
+    },
+    {
+      "start": 132.4,
+      "end": 141.17,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": "अच्छा order number क्या है बता सकते हो क्या आप हाँ जी O D four three one double five seven four double two seven two seven six one one zero zero एक second हाँ मैं check करता हूँ check कर लीजिये flipkart में जाकर भैया जी जी कोई दिक्कत नहीं है अब से नहीं अपने कोटे वाले हाँ बोलिए एक second हाँ बोलिए"
+    },
+    {
+      "start": 141.54,
+      "end": 142.86,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 143.13,
+      "end": 144.99,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 145.16,
+      "end": 145.56,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 146.08,
+      "end": 147.01,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 150.37,
+      "end": 151.75,
+      "speaker": "SPEAKER_02",
+      "role": "wife",
+      "text": ""
+    },
+    {
+      "start": 152.65,
+      "end": 152.95,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 154.34,
+      "end": 154.81,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 155.75,
+      "end": 156.51,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 158.99,
+      "end": 159.52,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 160.28,
+      "end": 166.17,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": "ऐ ओ डी फोर थ्री थ्री वन डबल फाइव सेवन फोर डबल टू सेवन टू सेवन सिक्स डबल वन डबल ज़ीरो हाँ और प्रोडक्ट का नाम क्या है ऐ आपका प्रोडक्ट है ब्लैक जीन्स ब्लैक जीन्स अः तीस नंबर का हम्म हाँ भाई पूरा नाम क्या है प्रोडक्ट"
+    },
+    {
+      "start": 162.35,
+      "end": 162.59,
+      "speaker": "SPEAKER_03",
+      "role": "husband",
+      "text": ""
+    },
+    {
+      "start": 166.45,
+      "end": 168.0,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 166.54,
+      "end": 166.59,
+      "speaker": "SPEAKER_02",
+      "role": "wife",
+      "text": ""
+    },
+    {
+      "start": 166.59,
+      "end": 166.91,
+      "speaker": "SPEAKER_03",
+      "role": "husband",
+      "text": ""
+    },
+    {
+      "start": 168.51,
+      "end": 170.22,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 170.55,
+      "end": 174.86,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 175.45,
+      "end": 176.26,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 177.2,
+      "end": 177.22,
+      "speaker": "SPEAKER_03",
+      "role": "husband",
+      "text": ""
+    },
+    {
+      "start": 177.22,
+      "end": 177.44,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 177.86,
+      "end": 180.66,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 181.32,
+      "end": 182.21,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 182.53,
+      "end": 182.91,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 183.45,
+      "end": 184.59,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 185.47,
+      "end": 189.01,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 189.44,
+      "end": 190.5,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 191.06,
+      "end": 192.56,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 193.08,
+      "end": 194.23,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 194.77,
+      "end": 197.1,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 197.81,
+      "end": 198.62,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 199.02,
+      "end": 200.3,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 200.73,
+      "end": 201.42,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 204.67,
+      "end": 210.88,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": "equity का है equity का है अच्छा और price क्या उसकी price है four four double nine हाँ बराबर चार सौ निन्यानवे रुपया okay इसका parcel का bill generate कर रहा था मैं billing department से बात कर रहा हूँ अभी out for delivery दिखा रहा है ये out for delivery दिखा नहीं रहा है क्यूंकि ये आपका parcel जो है ना हम्म ये hub में आपका ह"
+    },
+    {
+      "start": 204.71,
+      "end": 204.79,
+      "speaker": "SPEAKER_02",
+      "role": "wife",
+      "text": ""
+    },
+    {
+      "start": 204.79,
+      "end": 204.98,
+      "speaker": "SPEAKER_03",
+      "role": "husband",
+      "text": ""
+    },
+    {
+      "start": 204.98,
+      "end": 205.37,
+      "speaker": "SPEAKER_02",
+      "role": "wife",
+      "text": ""
+    },
+    {
+      "start": 206.53,
+      "end": 207.49,
+      "speaker": "SPEAKER_02",
+      "role": "wife",
+      "text": ""
+    },
+    {
+      "start": 208.61,
+      "end": 208.66,
+      "speaker": "SPEAKER_02",
+      "role": "wife",
+      "text": ""
+    },
+    {
+      "start": 211.29,
+      "end": 215.44,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 215.58,
+      "end": 215.9,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 216.42,
+      "end": 218.21,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 218.75,
+      "end": 219.07,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 219.52,
+      "end": 222.49,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 222.81,
+      "end": 223.27,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 223.74,
+      "end": 227.62,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 227.94,
+      "end": 229.31,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 227.98,
+      "end": 228.38,
+      "speaker": "SPEAKER_02",
+      "role": "wife",
+      "text": ""
+    },
+    {
+      "start": 230.75,
+      "end": 231.2,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 231.66,
+      "end": 232.06,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 234.63,
+      "end": 238.54,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 238.81,
+      "end": 244.31,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": "हब नासिक का हब है ना जो E card का हब जी हब में आया हुआ है E card का हब यहाँ से delivery boy को दिया जाता है आपको भेजवा दिया जाएगा अच्छा जी लेकिन यहाँ पे दिया है उन्होंने की आप pay कर सकते हो directly यहाँ पे आने के बाद direct pay करके क्योंकि system updating पे है ना तो system customer �"
+    },
+    {
+      "start": 244.62,
+      "end": 245.49,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 245.93,
+      "end": 246.3,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 246.86,
+      "end": 251.52,
+      "speaker": "SPEAKER_02",
+      "role": "wife",
+      "text": ""
+    },
+    {
+      "start": 250.0,
+      "end": 258.83,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": "आप ऐसा कर रहे हैं अगर आपको अगर ये आपको parcel चाहिए भैया तो आप payment कर लीजिये four double nine का अगर नहीं लेना है तो आप अपनी तरफ से cancel कर सकते हैं कोई दिक्कत नहीं है नहीं हमारी तरफ से नहीं cancel होगा अगर cancel हो जाएगा तो automatic हो जाएगा वो"
+    },
+    {
+      "start": 251.52,
+      "end": 251.94,
+      "speaker": "SPEAKER_03",
+      "role": "husband",
+      "text": ""
+    },
+    {
+      "start": 251.94,
+      "end": 251.96,
+      "speaker": "SPEAKER_02",
+      "role": "wife",
+      "text": ""
+    },
+    {
+      "start": 251.96,
+      "end": 251.97,
+      "speaker": "SPEAKER_03",
+      "role": "husband",
+      "text": ""
+    },
+    {
+      "start": 251.97,
+      "end": 252.13,
+      "speaker": "SPEAKER_02",
+      "role": "wife",
+      "text": ""
+    },
+    {
+      "start": 256.23,
+      "end": 256.6,
+      "speaker": "SPEAKER_03",
+      "role": "husband",
+      "text": ""
+    },
+    {
+      "start": 258.96,
+      "end": 266.44,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 259.03,
+      "end": 259.32,
+      "speaker": "SPEAKER_03",
+      "role": "husband",
+      "text": ""
+    },
+    {
+      "start": 259.32,
+      "end": 259.42,
+      "speaker": "SPEAKER_02",
+      "role": "wife",
+      "text": ""
+    },
+    {
+      "start": 262.59,
+      "end": 262.94,
+      "speaker": "SPEAKER_02",
+      "role": "wife",
+      "text": ""
+    },
+    {
+      "start": 266.55,
+      "end": 271.79,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 266.59,
+      "end": 267.03,
+      "speaker": "SPEAKER_02",
+      "role": "wife",
+      "text": ""
+    },
+    {
+      "start": 267.03,
+      "end": 267.47,
+      "speaker": "SPEAKER_03",
+      "role": "husband",
+      "text": ""
+    },
+    {
+      "start": 267.69,
+      "end": 267.7,
+      "speaker": "SPEAKER_02",
+      "role": "wife",
+      "text": ""
+    },
+    {
+      "start": 267.7,
+      "end": 268.04,
+      "speaker": "SPEAKER_03",
+      "role": "husband",
+      "text": ""
+    },
+    {
+      "start": 268.14,
+      "end": 268.93,
+      "speaker": "SPEAKER_03",
+      "role": "husband",
+      "text": ""
+    },
+    {
+      "start": 271.97,
+      "end": 280.65,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": "अगर नहीं लीजियेगा तो फिर cancel कर दिया जायेगा यहाँ से आपके हिसाब से जो भी जैसा भी लगता है कर दीजिये कोई दिक्कत नहीं है तो ऐसा आपको लेना है तो अगर लेना है तो delivery agent का QR code दे देता हूँ उसमे payment कर लीजिये four double nine का bill generate करके delivery OT पे दिया जायेगा आप अ"
+    },
+    {
+      "start": 280.98,
+      "end": 286.01,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 286.96,
+      "end": 293.42,
+      "speaker": "SPEAKER_01",
+      "role": "scammer",
+      "text": ""
+    },
+    {
+      "start": 290.38,
+      "end": 290.99,
+      "speaker": "SPEAKER_02",
+      "role": "wife",
+      "text": ""
+    },
+    {
+      "start": 291.85,
+      "end": 292.29,
+      "speaker": "SPEAKER_02",
+      "role": "wife",
+      "text": ""
+    }
+  ]
+}
