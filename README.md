@@ -4,6 +4,8 @@ Speech diarization on fraud voice calls using whisperx by OpenAI. There are two 
 The other recording includes hindi, in which a scammer pretending to be flipkart worker asking for a money from a couple. While the standard whisperx was initally struggling to capture the detail, I used a whisperx model which was further trained on hindi data from collabora.
 The results improved but the model still struggling on hindi language.
 
+Audio recordings-https://drive.google.com/drive/folders/1eWFR8GGMenQkae_lIvUbEAHGcRUjZiSr
+
 whisperx by open ai: https://github.com/m-bain/whisperX
 
 collabora link: https://www.collabora.com/news-and-blog/news-and-events/breaking-language-barriers-fine-tuning-whisper-for-hindi.html
